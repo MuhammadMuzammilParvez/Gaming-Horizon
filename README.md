@@ -1,4 +1,4 @@
 # Gaming-Horizon
 
 Responsive Website
-<a href="https://themuzibaloch.github.io/Gaming-Horizon/">Gaming Horizon</a>
+<a href="https://MuhammadMuzammilParvez.github.io/Gaming-Horizon/">Gaming Horizon</a>
